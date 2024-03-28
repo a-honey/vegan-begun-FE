@@ -5,21 +5,27 @@ import NavBar from './components/organisms/layout/NavBar.vue'
 </script>
 
 <template>
-  <AppHeader />
   <main>
-    <RouterView />
+    <AppHeader />
+    <section>
+      <RouterView />
+    </section>
+    <NavBar />
   </main>
-  <NavBar />
 </template>
 
 <style scoped>
 main {
-  background-color: pink;
-  color: white;
-  padding: 10px 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  width: 700px;
+  height: 100vh;
+  margin: auto;
+  position: relative;
+}
+
+section {
+  width: 100%;
+  height: calc(100%-4vh);
   align-items: center;
+  padding-top: 4vh;
 }
 </style>

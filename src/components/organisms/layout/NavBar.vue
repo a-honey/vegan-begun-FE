@@ -36,7 +36,18 @@ export default {
 </script>
 
 <style scoped>
+nav {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 8vh;
+  background-color: #cecece;
+}
+
 nav ul {
+  display: flex;
+  justify-content: space-between;
   list-style-type: none;
   padding: 0;
   margin: 0;

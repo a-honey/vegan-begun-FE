@@ -20,5 +20,10 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  height: 4vh;
 }
 </style>
