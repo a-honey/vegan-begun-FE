@@ -12,7 +12,7 @@
 
 <script lang="ts">
 export default {
-  name: 'StoreCard'
+  name: 'ItemCard'
 }
 </script>
 

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
-import AppHeader from './components/organisms/layout/AppHeader.vue'
-import NavBar from './components/organisms/layout/NavBar.vue'
+import AppHeader from './components/common/layout/AppHeader.vue'
+import AppFooter from './components/common/layout/AppFooter.vue'
 </script>
 
 <template>
@@ -10,7 +10,7 @@ import NavBar from './components/organisms/layout/NavBar.vue'
     <section>
       <RouterView />
     </section>
-    <NavBar />
+    <AppFooter />
   </main>
 </template>
 
