@@ -22,5 +22,7 @@ export default {
   display: flex;
   flex-direction: column;
   border-radius: 5px;
+  background-color: #cecece;
+  height: 300px;
 }
 </style>

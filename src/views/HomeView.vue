@@ -1,8 +1,41 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { useRouter } from 'vue-router'
+
+const router = useRouter()
+
+const handleClick = () => {
+  router.push('/search')
+}
+</script>
 
 <template>
-  <main>
-    <h1>Vegan-Begun</h1>
-    <a href="search">이용하기</a>
-  </main>
+  <section>
+    <div class="container">
+      <h1>Vegan-Begun</h1>
+    </div>
+    <button @click="handleClick">Explore</button>
+  </section>
 </template>
+
+<style scoped>
+section {
+  height: 100%;
+  padding: 100px 20px;
+  display: grid;
+  grid-template-rows: 4fr 0.5fr;
+  gap: 40px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  width: 100%;
+  border-radius: 15px;
+  border: 0px;
+  padding: 15px;
+}
+</style>

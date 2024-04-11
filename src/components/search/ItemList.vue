@@ -3,11 +3,11 @@ import ItemCard from './ItemCard.vue'
 </script>
 
 <template>
-  <section class="container">
+  <article class="container">
     <ItemCard />
     <ItemCard />
     <ItemCard />
-  </section>
+  </article>
 </template>
 
 <script lang="ts">
@@ -18,7 +18,9 @@ export default {
 
 <style scoped>
 .container {
+  margin-top: 20px;
   display: grid;
-  grid-template-rows: repeat(1fr, 2);
+  gap: 10px;
+  grid-template-columns: repeat(2, 1fr);
 }
 </style>
