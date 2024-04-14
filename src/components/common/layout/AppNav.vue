@@ -5,11 +5,13 @@
       <div class="line"></div>
       <div class="line"></div>
     </div>
-    <nav :class="{ 'show-menu': isMenuOpen }" @click="toggleMenu">
-      <a href="about">ABOUT</a>
-      <a href="search">SEARCH</a>
-      <a href="contact">CONTACT</a>
-    </nav>
+    <div v-if="isMenuOpen" class="background" @click="toggleMenu">
+      <nav :class="{ 'show-menu': isMenuOpen }" @click="toggleMenu">
+        <a href="about">ABOUT</a>
+        <a href="search">SEARCH</a>
+        <a href="contact">CONTACT</a>
+      </nav>
+    </div>
   </div>
 </template>
 <script lang="ts">

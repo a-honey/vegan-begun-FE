@@ -1,12 +1,14 @@
 <script setup lang="ts">
 import ItemList from '@/components/search/ItemList.vue'
-import TabBar from '@/components/search/TabBar.vue'
+import AppFilter from '@/components/search/Filter.vue'
 </script>
 
 <template>
   <section>
-    <input placeholder="검색어를 입력해주세요" />
-    <TabBar />
+    <div>
+      <input placeholder="검색어를 입력해주세요" />
+      <AppFilter />
+    </div>
     <ItemList />
   </section>
 </template>
@@ -23,5 +25,9 @@ input {
   padding: 10px;
   border-radius: 15px;
   background: #ffffff;
+}
+
+div {
+  display: flex;
 }
 </style>
