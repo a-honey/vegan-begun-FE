@@ -22,6 +22,7 @@ header {
   justify-content: space-between;
   padding: 0 20px;
   height: 7vh;
-  border-bottom: 1px solid #cdcdcd;
+  background-color: #4e8563;
+  color: white;
 }
 </style>

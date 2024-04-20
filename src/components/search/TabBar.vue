@@ -1,7 +1,11 @@
 <template>
   <div class="main-tab">
-    <div @click="selectedCategory = 'FOOD'">FOOD</div>
-    <div @click="selectedCategory = 'BRAND'">BRAND</div>
+    <div @click="selectedCategory = 'FOOD'" :class="{ active: selectedCategory === 'FOOD' }">
+      FOOD
+    </div>
+    <div @click="selectedCategory = 'BRAND'" :class="{ active: selectedCategory === 'BRAND' }">
+      BRAND
+    </div>
   </div>
   <div class="sub-tab" v-if="selectedCategory === 'FOOD'">
     <div class="sub-tab-item">Bakery</div>
@@ -33,8 +37,18 @@ export default {
   display: grid;
   grid-template-columns: 1fr 1fr;
   text-align: center;
-  padding: 10px;
+  padding: 5px;
   width: 100%;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.main-tab > div {
+  padding-bottom: 10px;
+  border-bottom: 3px solid #d8eadd;
+}
+.main-tab > .active {
+  border-bottom: 3px solid #4e8563;
 }
 .sub-tab {
   display: flex;
@@ -42,7 +56,12 @@ export default {
 }
 .sub-tab-item {
   display: flex;
-  background-color: #cdcdcd;
+  background-color: #257766;
+  border-radius: 20px;
+  color: white;
   padding: 5px 20px;
+  font-size: small;
+  text-transform: uppercase;
+  font-weight: 700;
 }
 </style>

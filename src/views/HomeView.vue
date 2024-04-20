@@ -13,7 +13,7 @@ const handleClick = () => {
     <div class="container">
       <h1>Vegan-Begun</h1>
     </div>
-    <button @click="handleClick">Explore</button>
+    <button @click="handleClick">EXPLORE</button>
   </section>
 </template>
 
@@ -32,10 +32,15 @@ section {
   justify-content: center;
   align-items: center;
 }
+
 button {
+  background-color: #257766;
+  color: white;
   width: 100%;
   border-radius: 15px;
   border: 0px;
   padding: 15px;
+  font-size: large;
+  font-weight: 700;
 }
 </style>

@@ -46,6 +46,7 @@ export default {
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   padding: 20px;
+  z-index: 800;
 }
 
 h2 {
