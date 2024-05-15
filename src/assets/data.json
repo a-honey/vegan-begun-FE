@@ -1,0 +1,60 @@
+{
+    "food":{
+        "bakery": [{
+                "index": 0,
+                "name": "헌터스 히말라야 핑크 솔트 포테이토칩",
+                "description": "",
+                "tags":  ["비건인증"],
+                "imgURL_main": "https://image.oliveyoung.co.kr/uploads/images/goods/550/10/0000/0020/A00000020244501ko.jpg?l=ko",
+                "imgURL_list": ""
+            },
+            {
+                "index": 1,
+                "name": "헌터스 씨솔트 포테이토칩",
+                "description": "",
+                "tags":  ["비건인증"],
+                "imgURL_main": "https://image.homeplus.kr/rtd/2361b6a6-7f7f-4ab3-ae8d-7b3451025e44?w=750"
+            },
+            { 
+                "index": 2,
+                "name": "헌터스 씨솔트 앤 블랙페퍼 포테이토칩",
+                "description": "",
+                "tags":  ["비건인증"],
+                "imgURL_main": "https://image6.coupangcdn.com/image/retail/images/2024/01/31/10/5/36440bab-9137-4e94-8940-3fcdc6181629.jpg",
+                "imgURL_list": ""
+            }
+        ],
+        "beverage": [],
+        "sauce": [],
+        "retort_food": []
+    },
+    "brand": {
+        "cafe": [],
+        "fast_food_chain_store":[],
+        "no_brand":[],
+        "vegeterian_brand": [{
+                "index": 0,
+                "name": "비건다시다 콩으로 만든 쇠고기향 가득",
+                "description": "",
+                "tags":  ["비건인증"],
+                "imgURL_main": "https://img.cjthemarket.com/images/file/product/022/20221027105139116.jpg?SF=webp&RS=550x550",
+                "imgURL_list": ""
+            },
+            {
+                "index": 1,
+                "name": "라구 트레디셔널 소스",
+                "description": "",
+                "tags":  ["비S건추정"],
+                "imgURL_main": "https://contents.lotteon.com/itemimage/20240409135658/LM/00/36/20/00/00/50/2_/00/1/LM0036200000502_001_1.jpg"
+            },
+            {
+                "index": 2,
+                "name": "웅진 미유",
+                "description": "",
+                "tags":  ["비건인증"],
+                "imgURL_main": "https://img.danawa.com/prod_img/500000/445/095/img/14095445_1.jpg?shrink=330:*&_v=20230904144551",
+                "imgURL_list": ""
+            }                     
+        ]
+    }
+}

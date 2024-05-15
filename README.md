@@ -1,45 +1,21 @@
-# vegan-begun
+# VEGAN-BEGUN
+> 비건은 이미 당신 곁에 있고, 따라서 당신도 언제든지 비건 생활을 시작할 수 있다
 
-This template should help get you started developing with Vue 3 in Vite.
+20대 대학생을 포함한 일반인들이 싸고 일상적으로 찾을 수 있는 비건 식품을 소개하기 위한 웹사이트입니다.
 
-## Recommended IDE Setup
+## 과제
+### 💚 데이터 조사 및 웹사이트 제작
+직접 시장 조사를 통해 웹사이트 제작을 위한 기반 데이터를 쌓고, 이에 따라 웹사이트를 제작합니다.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### 💛 외국인 유학생을 위한 언어 변경
+유학생들의 편의를 위해 각 설명문을 영어로 번역하여 제공합니다.
 
-## Type Support for `.vue` Imports in TS
+### 💜 공공기관 또는 기업 협력 요청
+식품 기업에 교내 참여형 팝업스토어 샘플 제안 및 구청 홍보과에 판촉물 홍보 여청 등 공공기관 또는 기업에 협력 요청합니다.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## Period
+- 2024.03 ~ 2024.06
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-pnpm test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
+## Stacks
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=ffffff)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
