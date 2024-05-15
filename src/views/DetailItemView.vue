@@ -1,34 +1,57 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import bakery from '../mock/bakery.json'
+</script>
 
 <template>
   <section>
     <div class="container">
-      <h1>한입감자전</h1>
+      <h1>{{ name }}</h1>
       <div class="img-container">
-        <img src="/한입감자전.jpg" />
+        <img v-if="imgURL_main" :src="imgURL_main" />
       </div>
     </div>
     <div class="content-container">
       <div class="item-container">
+        <p class="tag" v-for="(tag, index) in tags" :key="index"># {{ tag }}</p>
+      </div>
+      <div class="item-container">
         <label> 성분표 </label>
-        <p>
-          감자(국산), 곡류가공품(밀가루(밀: 미국산), 튀김양념믹스(중국산), 옥수수가루,
-          합성팽창제(탄산수소나트륨, 산성피로인산나트륨, 전분, 제일인산칼슘, 스테아린산칼슘),
-          볶음쌀가루), 대두유(대두유(외국산), 전분가공품(감자전분(외국산)), 건조감자분말(미국산),
-          설탕, 정제소금
-        </p>
+        <img v-if="imgURL_main" :src="imgURL_list" />
       </div>
-      <div class="item-container">
-        <label>알레르기</label>
-        <p>대두, 밀</p>
+      <div v-if="description" class="item-container">
+        <label>기타</label>
+        <p>{{ description }}</p>
       </div>
-      <div class="item-container">
-        <label>내용량</label>
-        <p>400g</p>
-      </div>
+      <button v-if="URL" @click="goToURL">구매하러 가기</button>
     </div>
   </section>
 </template>
+
+<script lang="ts">
+export default {
+  name: 'DetailItemViewVue',
+  props: ['id'],
+  data() {
+    const food = bakery.bakery.find((foodItem) => foodItem.index === Number(this.id))
+
+    return {
+      index: food?.index,
+      name: food?.name,
+      description: food?.description,
+      tags: food?.tags,
+      URL: food?.URL,
+      imgURL_main: food?.imgURL_main,
+      imgURL_list: food?.imgURL_list
+    }
+  },
+  methods: {
+    goToURL() {
+      if (!this.URL) return
+      window.open(this.URL, '_blank')
+    }
+  }
+}
+</script>
 
 <style scoped>
 section {
@@ -36,7 +59,6 @@ section {
 }
 .img-container {
   width: 100%;
-  height: 700px;
   overflow: hidden;
   border-radius: 10px;
 }
@@ -68,6 +90,11 @@ h1 {
 }
 .item-container > label {
   font-size: 18px;
+  font-weight: 700;
+}
+
+.tag {
+  font-size: 15px;
   font-weight: 700;
 }
 </style>

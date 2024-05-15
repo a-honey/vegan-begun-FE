@@ -1,13 +1,12 @@
 <template>
   <div class="store-card" @click="goToDetail">
     <div class="img-container">
-      <img src="/한입감자전.jpg" />
+      <img :src="data.imgURL_main" />
     </div>
     <div class="store-card-container">
-      <div class="name">한입 감자전</div>
+      <div class="name">{{ data.name }}</div>
       <ul class="store-card-tags">
-        <li>#혼입가능</li>
-        <li>#비건추정</li>
+        <li v-for="(tag, index) in data.tags" :key="index"># {{ tag }}</li>
       </ul>
     </div>
   </div>
@@ -18,12 +17,18 @@ import { defineComponent } from 'vue'
 import { useRouter } from 'vue-router'
 
 export default defineComponent({
+  props: {
+    data: {
+      type: Object,
+      required: true
+    }
+  },
   name: 'ItemCard',
-  setup() {
+  setup(props) {
     const router = useRouter()
 
     const goToDetail = () => {
-      router.push('/detail')
+      router.push(`/detail/${props.data.index}`)
     }
 
     return {
@@ -57,8 +62,8 @@ img {
   left: 0;
   right: 0;
   border-radius: 10px;
-  background-color: #d8eadd;
-  padding: 10px;
+  background-color: #eefff3;
+  padding: 20px 10px;
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -67,6 +72,10 @@ img {
 .name {
   font-size: 20px;
   font-weight: 700;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  word-break: break-all;
 }
 
 .store-card-tags {

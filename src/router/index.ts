@@ -18,9 +18,10 @@ const router = createRouter({
       component: SearchView
     },
     {
-      path: '/detail',
+      path: '/detail/:id',
       name: 'detailItem',
-      component: DetailItemViewVue
+      component: DetailItemViewVue,
+      props: true
     }
   ]
 })

@@ -1,0 +1,341 @@
+{
+  "convenience_store": [
+    {
+      "index": 0,
+      "name": "사또밥",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 1,
+      "name": "조청유과",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 2,
+      "name": " 고구마깡",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 3,
+      "name": "츄러스",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 4,
+      "name": "참쌀선과",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 5,
+      "name": "이지프로틴 식물성 단백질 바",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 6,
+      "name": "농심 포테토칩",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 7,
+      "name": "유어스 미역국",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "짠과자", "GS25", "라면"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 8,
+      "name": "Lico Rico 샤워젤리",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 9,
+      "name": "맵탱청양고추대파라면",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "라면"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 10,
+      "name": "비빔면",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "라면"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 11,
+      "name": "사천왕 탄탄면",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "라면"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 12,
+      "name": "사천왕 마라탕면",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "라면"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 13,
+      "name": "불닭볶음탕면",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "라면"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 14,
+      "name": "인도미 미고랭라면",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "라면"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 15,
+      "name": "달고나 다크초콜릿",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "라면"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 16,
+      "name": "네이쳐밸리 크런치 오트&다크 초코릿",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 17,
+      "name": "크라운 밤양갱",
+      "description": "주의: 해태 영양갱은 타우린 성분을 포함하여 논비건",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 18,
+      "name": "크라운 팥양갱",
+      "description": "주의: 해태 영양갱은 타우린 성분을 포함하여 논비건 ",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 19,
+      "name": "꼬깔콘 고소한맛",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 20,
+      "name": "찹쌀 손약과",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 21,
+      "name": "띠옴바 납작복숭아",
+      "description": "",
+      "tags": ["비건인증", "아이스크림"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 22,
+      "name": "따옴바 패션프루트",
+      "description": "",
+      "tags": ["비건인증", "아이스크림"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 23,
+      "name": "따옴바 포도",
+      "description": "",
+      "tags": ["비건인증", "아이스크림"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 24,
+      "name": "따옴바 딸기",
+      "description": "",
+      "tags": ["비건인증", "아이스크림"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 25,
+      "name": "따옴바 수박",
+      "description": "",
+      "tags": ["비건인증", "아이스크림"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 26,
+      "name": "따옴바 애플망고",
+      "description": "",
+      "tags": ["비건인증", "아이스크림"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 27,
+      "name": "따옴바 파인애플",
+      "description": "GS25",
+      "tags": ["비건인증", "아이스크림"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 28,
+      "name": "프링글스_오리지널",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 29,
+      "name": "프링글스 핫&스파이시",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 30,
+      "name": "로투스 비스코프 비스켓",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 31,
+      "name": "로투스 비스코프 바닐라샌드",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 32,
+      "name": "로투스 비스코프샌드 비스코프크림",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 33,
+      "name": "맥비티 다이제스티브 오리지널",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 34,
+      "name": "레이즈 씨위드 감자칩",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "짠과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 35,
+      "name": "레이즈 클래식 감자칩",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 36,
+      "name": "수미칩 오리지널 ",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 37,
+      "name": "자가비짭잘한맛",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 38,
+      "name": "자가비 캐첩맛",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 39,
+      "name": "HBAF 김맛아몬드",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "짠과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 40,
+      "name": "옥수수브이콘",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "index": 41,
+      "name": "난나나콘",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "imgURL_main": "",
+      "imgURL_list": ""
+    }
+  ]
+}

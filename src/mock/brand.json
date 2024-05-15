@@ -1,0 +1,268 @@
+{
+  "brand": [
+    {
+      "index": 0,
+      "name": "플랜테이블 식물성 함박스테이크",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "index": 1,
+      "name": "플랜테이블 식물성 떡갈비",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "index": 2,
+      "name": "플랜테이블 식물성 잡채왕교자",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "index": 3,
+      "name": "플랜테이블 식물성 왕교자",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "index": 4,
+      "name": "플랜테이블 식물성 불고기주먹밥",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "index": 5,
+      "name": "플랜테이블 식물성 전주비빔주먹밥",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "index": 6,
+      "name": "플랜테이블 식물성 너겟",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "index": 7,
+      "name": "플랜테이블 식물성 김치왕교자",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+
+    {
+      "index": 8,
+      "name": "즐거운동행 미정당 쫄면볶이",
+      "description": "CJ제일제당에 문의한 결과, 동물성 성분 함유되지 않았다는 답변 받음",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+
+    {
+      "index": 9,
+      "name": "식물성 지구식단 표고야채 한식교자",
+      "description": "풀무원에 문의한 결과, 혼입 가능성 때문에 완전한 비건 인증은 받지ㅁ 못한 상품이 있음",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+
+    {
+      "name": "식물성 지구식단 크리스피 두부스틱",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 철판 제육볶음밥",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 철판 불고기볶음밥",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 라이트 불고기 브리또",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 라이트 두부 살사 브리또",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 두부김치 한식교자",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 결이 다른 텐더 마일드",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 결이 다른 큐브강정 매콤바베큐",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 결이 다른 큐브강정 달콤소이",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 유니짜장면",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 솥솥비빔주먹밥",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 두부탕수육 새콤달콤소스",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 두부탕수육 매콤사천소스",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 지구식단 동글떡볶이",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+
+    {
+      "name": "동치미 냉면",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "물 메밀 막국수",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "우리쌀 단백설기",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "우리찹쌀 영양 약밥",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "토마토파스타",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "새콤달콤 생쫄면",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "식물성 라구 생파스타",
+      "description": "유통전문판매원인 ‘주식회사 캐비아’에 문의한 결과, 법적으로는 비건 인증을 받을 수 없다고 안내받음. 그러나 성분상으로는 식물성 재료로만 만들어졌으며, 소스에 사용된 설탕 또한 탄화골분을 사용하지 않은 설탕임을 확인함.",
+      "tags": ["비건인증", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "속이꽉찬 한입완자",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "텐더 스테이크",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "비건 닭강정",
+      "description": "",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "만둣국",
+      "description": "",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "후라이드 치킨",
+      "description": "",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "국물맛내기",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "브이패티",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "브이민스",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "궁중너비아니",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "바삭탕수육",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "한입완자",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "name": "떡갈비",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    }
+  ]
+}
