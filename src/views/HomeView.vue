@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { useRouter } from 'vue-router'
+import logo from '../assets/logo.png'
 
 const router = useRouter()
 
@@ -11,7 +12,13 @@ const handleClick = () => {
 <template>
   <section>
     <div class="container">
-      <h1>Vegan-Begun</h1>
+      <img :src="logo" alt="vegan-begun 로고" width="200" />
+      <div class="text-container">
+        <div>Vegan-begun에 오신 것을 환영합니다</div>
+        <div>비건 라이프스타일을 소개하고</div>
+        <div>이를 실천하기 쉽고 즐겁게 만들기 위해</div>
+        <div>이곳에 모였습니다.</div>
+      </div>
     </div>
     <button @click="handleClick">EXPLORE</button>
   </section>
@@ -23,7 +30,7 @@ section {
   padding: 100px 20px;
   display: grid;
   grid-template-rows: 4fr 0.5fr;
-  gap: 40px;
+  gap: 100px;
 }
 
 .container {
@@ -33,6 +40,11 @@ section {
   align-items: center;
 }
 
+.text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
 button {
   background-color: #257766;
   color: white;
