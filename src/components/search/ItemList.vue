@@ -2,16 +2,15 @@
 import ItemCard from './ItemCard.vue'
 import bakery from '../../mock/bakery.json'
 import brand from '../../mock/brand.json'
+import sauce from '../../mock/sauce.json'
+import drink from '../../mock/drink.json'
 </script>
 
 <template>
   <article class="container">
-    <ItemCard v-for="(item, index) in bakeryItemCards" :key="index" :data="item"></ItemCard>
-    <ItemCard
-      v-for="(item, index) in vegeterian_brandItemCards"
-      :key="index"
-      :data="item"
-    ></ItemCard>
+    <ItemCard v-for="(item, index) in bakeryItemCards" :key="index" :data="item" />
+    <ItemCard v-for="(item, index) in drinkItemCards" :key="index" :data="item" />
+    <ItemCard v-for="(item, index) in sauceItemCards" :key="index" :data="item" />
   </article>
 </template>
 
@@ -22,7 +21,9 @@ export default {
   data() {
     return {
       bakeryItemCards: bakery.bakery,
-      vegeterian_brandItemCards: brand.brand
+      vegeterian_brandItemCards: brand.brand,
+      drinkItemCards: drink.drink,
+      sauceItemCards: sauce.sauce
     }
   }
 }
