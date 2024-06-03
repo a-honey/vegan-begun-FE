@@ -1,0 +1,244 @@
+{
+  "cafe": [
+    {
+      "type": "cafe",
+      "index": 1,
+      "name": "공차 - 펄(타피오카)",
+      "description": "공차로부터 정제당 사용하지 않음을 확인함",
+      "tags": ["제조사인증"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 2,
+      "name": "공차 - 코코넛",
+      "description": "공차로부터 정제당 사용하지 않음을 확인함",
+      "tags": ["제조사인증"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 3,
+      "name": "공차 - 알로에",
+      "description": "공차로부터 정제당 사용하지 않음을 확인함.",
+      "tags": ["제조사인증"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 4,
+      "name": "공차 - 화이트펄",
+      "description": "공차로부터 정제당 사용하지 않음을 확인함.",
+      "tags": ["제조사인증"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 5,
+      "name": "메가커피 - [옵션] 아몬드 브리즈",
+      "description": "아몬드 브리즈 옵션 변경 가능. 오트유(오트 밀크, 귀리유)는 불가.",
+      "tags": [],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 6,
+      "name": "바나프레소 -[옵션] 두유",
+      "description": "",
+      "tags": [],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 7,
+      "name": "이디야 - [옵션] 오트유(오트 밀크, 귀리유)",
+      "description": "",
+      "tags": [],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 8,
+      "name": "투썸플레이스 - [옵션] 두유, 오트유(오트 밀크, 귀리유)",
+      "description": "두유 또는 오트유 옵션 변경 가능.",
+      "tags": [],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 9,
+      "name": "폴바셋 - [옵션] 두유",
+      "description": "",
+      "tags": [],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 10,
+      "name": "스타벅스 - [옵션] 두유, 오트유, 아몬드 브리즈",
+      "description": "스타벅스의 라떼·프라푸치노류는 대부분 두유, 오트유, 아몬드 브리즈 옵션으로 변경 가능",
+      "tags": [],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 11,
+      "name": "스타벅스 - 오트 콜드 브루",
+      "description": "",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 12,
+      "name": "스타벅스 - 더블 레몬 블렌디드",
+      "description": "",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 13,
+      "name": "스타벅스 - 망고 패션 티 블렌디드",
+      "description": "",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 14,
+      "name": "스타벅스 - 바질 레몬 셔벗 블렌디드",
+      "description": "",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 15,
+      "name": "스타벅스 - 딸기 아사이 레모네이드 스타벅스 리프레셔",
+      "description": "리프레셔, 피지오 메뉴군은 성분상 모두 식물성.",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 16,
+      "name": "스타벅스 - 망고 용과 레모네이드 스타벅스 리프레셔",
+      "description": "리프레셔, 피지오 메뉴군은 성분상 모두 식물성.",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 17,
+      "name": "스타벅스 - 네오 쿨 테이스티 매실 피지오",
+      "description": "리프레셔, 피지오 메뉴군은 성분상 모두 식물성.",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 18,
+      "name": "스타벅스 - 라이트 핑크 자몽 피지오",
+      "description": "리프레셔, 피지오 메뉴군은 성분상 모두 식물성.",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 19,
+      "name": "스타벅스 - 여수 바다 자몽 피지오",
+      "description": "리프레셔, 피지오 메뉴군은 성분상 모두 식물성.",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 20,
+      "name": "스타벅스 - 유자 패션 피지오",
+      "description": "리프레셔, 피지오 메뉴군은 성분상 모두 식물성.",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 21,
+      "name": "스타벅스 - 피치 딸기 피지오",
+      "description": "리프레셔, 피지오 메뉴군은 성분상 모두 식물성.",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 22,
+      "name": "스타벅스 - 한입에 쏙 고구마",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 23,
+      "name": "스타벅스 - 한입에 쏙 공주 알밤",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 24,
+      "name": "스타벅스 - 오도독 건강한 넛&블루베리",
+      "description": "",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 25,
+      "name": "스타벅스 - 자일리톨 캔디 크리스탈 레몬",
+      "description": "",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 26,
+      "name": "스타벅스 - 자일리톨 캔디 크리스탈 민트",
+      "description": "",
+      "tags": ["비건추정"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 27,
+      "name": "스타벅스 - 씨프렌즈 캔디",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 28,
+      "name": "스타벅스 - 심플리치클껌",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 29,
+      "name": "스타벅스 - 그래놀라 오리지널",
+      "description": "",
+      "tags": ["비건추정", "혼입가능"],
+      "imgURL_main": ""
+    },
+    {
+      "type": "cafe",
+      "index": 30,
+      "name": "스타벅스 - 리얼 두부칩",
+      "description": "",
+      "tags": ["비건인증"],
+      "imgURL_main": ""
+    }
+  ]
+}

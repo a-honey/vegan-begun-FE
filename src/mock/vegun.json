@@ -1,0 +1,188 @@
+{
+  "vegan": [
+    {
+      "type": "vegan",
+      "index": 1,
+      "name": "진선푸드 - 채식 우리밀 야채손만두",
+      "description": "설탕을 포함하여 모든 원재료는 식물성임.",
+      "tags": ["비건추정"],
+      "URL": "https://jinsunfood.com/product/detail.html?product_no=41&cate_no=4&display_group=1"
+    },
+    {
+      "type": "vegan",
+      "index": 2,
+      "name": "진선푸드 - 채식 우리밀 김치손만두",
+      "description": "설탕을 포함하여 모든 원재료는 식물성임.",
+      "tags": ["비건추정"],
+      "URL": "https://jinsunfood.com/product/detail.html?product_no=60&cate_no=4&display_group=1"
+    },
+    {
+      "type": "vegan",
+      "index": 3,
+      "name": "11:45분 배고픈시간",
+      "description": "비건 김밥 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://smartstore.naver.com/1145"
+    },
+    {
+      "type": "vegan",
+      "index": 4,
+      "name": "계동마나님 자운경",
+      "description": "비건 그린커리, 버섯덮밥, 버섯 마라탕, 순무 장아찌 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://smartstore.naver.com/gmanim"
+    },
+    {
+      "type": "vegan",
+      "index": 5,
+      "name": "나유타 스토어",
+      "description": "당근 라페, 버섯 쌀국수 채수, 스파이시 소이빈 페이스트, 버섯 가지 카레 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://smartstore.naver.com/nayuta_cafe"
+    },
+    {
+      "type": "vegan",
+      "index": 6,
+      "name": "나이스케키",
+      "description": "젤라또 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://smartstore.naver.com/sustableshop"
+    },
+    {
+      "type": "vegan",
+      "index": 7,
+      "name": "넥스트밀",
+      "description": "대체육 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://smartstore.naver.com/fortunate_greenfood"
+    },
+    {
+      "type": "vegan",
+      "index": 8,
+      "name": "닥터비건",
+      "description": "비건 치즈, 도시락, 초콜릿 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://drvegan.co.kr/"
+    },
+    {
+      "type": "vegan",
+      "index": 9,
+      "name": "디보션푸드",
+      "description": "대체육, 비건 만두 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://smartstore.naver.com/devotionfoods"
+    },
+    {
+      "type": "vegan",
+      "index": 10,
+      "name": "러빙헛",
+      "description": "대체육, 두개장, 조미료, 라면 등 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://www.lovinghut.co.kr/index.html"
+    },
+    {
+      "type": "vegan",
+      "index": 11,
+      "name": "마이프로틴",
+      "description": "비건 카테고리가 있음. 프로틴, 영양제 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://www.myprotein.co.kr/"
+    },
+    {
+      "type": "vegan",
+      "index": 12,
+      "name": "마켓오네이처",
+      "description": "오리온의 브랜드. 모든 상품이 성분상 식물성인 것은 아닌 점 주의.",
+      "tags": ["제조사인증"],
+      "URL": "https://www.orionworld.com/goods/list/35?category=0201"
+    },
+    {
+      "type": "vegan",
+      "index": 13,
+      "name": "버틀",
+      "description": "비건 소스 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://smartstore.naver.com/vurtle"
+    },
+    {
+      "type": "vegan",
+      "index": 14,
+      "name": "베지나랑",
+      "description": "콩까스, 유부 복주머니 전골 밀키트 등 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://smartstore.naver.com/vegenarang"
+    },
+    {
+      "type": "vegan",
+      "index": 15,
+      "name": "베지박스",
+      "description": "식물성치즈, 간편식품(만두, 오뎅탕), 음료, 간식, 소스 등 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://vegbox.kr/"
+    },
+    {
+      "type": "vegan",
+      "index": 16,
+      "name": "베지푸드",
+      "description": "대체육, 치킨, 시래기탕, 청국장 찌개, 우거지 보양탕, 튀김, 비비큐 등 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "http://www.vegefood.co.kr/index.html"
+    },
+    {
+      "type": "vegan",
+      "index": 17,
+      "name": "얼티브",
+      "description": "CJ제일제당의 브랜드. 비건 프로틴을 판매 중.",
+      "tags": ["비건인증"],
+      "URL": "https://www.cj.co.kr/kr/brands/altive"
+    },
+    {
+      "type": "vegan",
+      "index": 18,
+      "name": "올가니카",
+      "description": "음료, 스낵류 등 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://organica.kr/index.html"
+    },
+    {
+      "type": "vegan",
+      "index": 19,
+      "name": "위미트",
+      "description": "프라이드, 프라이드 양념, 덮밥 등 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://eatwemeet.co/?NaPm=ct%3Dlwq6k8nc%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3Dnull%7Chk%3D4998878e559341d47768996120c857ce72aeb83a"
+    },
+    {
+      "type": "vegan",
+      "index": 20,
+      "name": "이노센트",
+      "description": "인테이크의 브랜드. 닭가슴살 큐브, 후무스, 팔라펠(콩을 둥글게 빚어 튀긴 요리), 돈가스, 핫크리스피 치킨, 소이밀크 등 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://www.shopintake.com/innocent"
+    },
+    {
+      "type": "vegan",
+      "index": 21,
+      "name": "잇츠베러",
+      "description": "플랜잇샵의 브랜드. 크래커, 쿠키, 프로틴 누들, 소스 등 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://planteatshop.com/index.html"
+    },
+    {
+      "type": "vegan",
+      "index": 22,
+      "name": "채식사랑",
+      "description": "대체육, 면류, 반찬류, 간식, 영양제, 펫푸드 등 판매 중.",
+      "tags": ["제조사인증"],
+      "URL": "https://www.veganlove.co.kr/index.html"
+    },
+    {
+      "type": "vegan",
+      "index": 23,
+      "name": "헬로베지",
+      "description": "오뚜기의 브랜드. 채황 라면, 카레, 짜장, 덮밥 판매 중.",
+      "tags": ["비건인증"],
+      "URL": "https://www.ottogimall.co.kr/front/product/brand/16?ptype=0&psort=pop&pageSize=80&listBtn=0"
+    }
+  ]
+}

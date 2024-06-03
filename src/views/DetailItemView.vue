@@ -5,12 +5,22 @@ import { useRoute } from 'vue-router'
 import bakery from '../mock/bakery.json'
 import sauce from '../mock/sauce.json'
 import drink from '../mock/drink.json'
+import nobrand from '../mock/nobrand.json'
+import convenience_store from '../mock/convenience_store.json'
+import fastfood from '../mock/fastfood.json'
+import cafe from '../mock/cafe.json'
+import vegan from '../mock/vegun.json'
 
 const route = useRoute()
 
 const bakeryItemCards = bakery.bakery
 const drinkItemCards = drink.drink
 const sauceItemCards = sauce.sauce
+const nobrandItemCards = nobrand.nobrand
+const conenienceStoreItemCards = convenience_store.convenience_store
+const fastfoodItemCards = fastfood.data
+const cafeItemCards = cafe.cafe
+const veganItemCards = vegan.vegan
 
 interface FoodItem {
   index: number
@@ -27,10 +37,20 @@ const itemsToDisplay = computed<FoodItem[]>(() => {
   switch (type) {
     case 'bakery':
       return bakeryItemCards
+    case 'convenience_store':
+      return conenienceStoreItemCards
     case 'drink':
       return drinkItemCards
     case 'sauce':
       return sauceItemCards
+    case 'noBrand':
+      return nobrandItemCards
+    case 'fastfood':
+      return fastfoodItemCards
+    case 'cafe':
+      return cafeItemCards
+    case 'vegan':
+      return veganItemCards
     default:
       return []
   }

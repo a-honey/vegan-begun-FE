@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "type": "fastfood",
+      "index": 1,
+      "name": "샐러디 - 지구식단 숯불직화 웜볼",
+      "description": "",
+      "ingredient": "곡물(귀리, 찹쌀, 찰보리), 채소(로메인, 프릴아이스, 카이피라, 라디치오), 콩단백숯불직화구이, 두부, 양파, 당근라페, 머쉬룸, 타바스코오리엔탈",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/view_1?idx=86&ca_id="
+    },
+    {
+      "type": "fastfood",
+      "index": 2,
+      "name": "샐러디 - 지구식단 숯불직화 샐러디",
+      "description": "",
+      "ingredient": "채소(로메인, 프릴아이스, 카이피라, 라디치오), 콩단백숯불직화구이, 두부면, 양파, 당근라페, 오이, 발사믹",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/view_1?idx=85&ca_id="
+    },
+    {
+      "type": "fastfood",
+      "index": 3,
+      "name": "샐러디 - 머쉬룸두부 웜볼",
+      "description": "",
+      "ingredient": "곡물(귀리, 찹쌀, 찰보리), 채소(로메인, 프릴아이스, 카이피라, 라디치오), 머쉬룸, 두부, 양파, 옥수수, 타바스코오리엔탈",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/view_1?idx=47&ca_id=02",
+      "imgURL_main": "https://salady.com/superboard/data/product/thumb/990495120_Nh7oXLB4_a7b0807339dac05fae79db5d01c67ab4557f7922.jpg"
+    },
+    {
+      "type": "fastfood",
+      "index": 4,
+      "name": "샐러디 - 단호박두부 샐러디",
+      "description": "",
+      "ingredient": "채소(로메인, 프릴아이스, 카이피라, 라디치오), 단호박, 두부, 당근라페, 옥수수, 올리브, 발사믹",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/view_1?idx=40&ca_id=01",
+      "imgURL_main": "https://salady.com/superboard/data/product/thumb/990495120_d8Ys9lUM_fc34d1ddea642a499b40b73a7e6c6bb02b7d0ff8.png"
+    },
+    {
+      "type": "fastfood",
+      "index": 5,
+      "name": "샐러디(메인 토핑) - 머쉬룸",
+      "description": "버섯, 키오스크에 ‘Vegan’ 표시되어 있음.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 6,
+      "name": "샐러디(메인 토핑) - 두부",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 7,
+      "name": "샐러디(메인 토핑) - 단호박",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 8,
+      "name": "샐러디(메인 토핑) - 두부면",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 9,
+      "name": "샐러디(메인 토핑) - 콩단백숯불직화구이",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 10,
+      "name": "샐러디(서브 토핑) - 크랜베리",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음. 양파플레이크, 나쵸칩, 사워크림, 칠리빈, 바질페스토는 비건이 아님.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 11,
+      "name": "샐러디(서브 토핑) - 옥수수",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음. 양파플레이크, 나쵸칩, 사워크림, 칠리빈, 바질페스토는 비건이 아님.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 12,
+      "name": "샐러디(서브 토핑) - 양파",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음. 양파플레이크, 나쵸칩, 사워크림, 칠리빈, 바질페스토는 비건이 아님.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 13,
+      "name": "샐러디(서브 토핑) - 토마토",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음. 양파플레이크, 나쵸칩, 사워크림, 칠리빈, 바질페스토는 비건이 아님.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 14,
+      "name": "샐러디(서브 토핑) - 올리브",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음. 양파플레이크, 나쵸칩, 사워크림, 칠리빈, 바질페스토는 비건이 아님.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 15,
+      "name": "샐러디(서브 토핑) - 견과류",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음. 양파플레이크, 나쵸칩, 사워크림, 칠리빈, 바질페스토는 비건이 아님.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 16,
+      "name": "샐러디(서브 토핑) - 할라피뇨",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음. 양파플레이크, 나쵸칩, 사워크림, 칠리빈, 바질페스토는 비건이 아님.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 17,
+      "name": "샐러디(서브 토핑) - 오이",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음. 양파플레이크, 나쵸칩, 사워크림, 칠리빈, 바질페스토는 비건이 아님.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 18,
+      "name": "샐러디(서브 토핑) - 당근라페",
+      "description": "키오스크에 ‘Vegan’ 표시되어 있음. 양파플레이크, 나쵸칩, 사워크림, 칠리빈, 바질페스토는 비건이 아님.",
+      "tags": ["제조사인증"],
+      "URL": "https://salady.com/menu/list_2?type=topping"
+    },
+    {
+      "type": "fastfood",
+      "index": 19,
+      "name": "파파존스 - 그린잇 식물성 마가리타",
+      "description": "",
+      "tags": ["제조사인증"],
+      "URL": "https://pji.co.kr/menu/productPizzaDetail?spOid=2861&productId=3001",
+      "imgURL_main": "https://imgcdn.pji.co.kr/pc/img/menu/detail/2861_10.png"
+    },
+    {
+      "type": "fastfood",
+      "index": 20,
+      "name": "파파존스 - 그린잇 식물성 가든스페셜",
+      "description": "",
+      "tags": ["제조사인증"],
+      "imgURL_main": "https://imgcdn.pji.co.kr/pc/img/menu/detail/2863_10.png",
+      "URL": "https://pji.co.kr/menu/productPizzaDetail?spOid=2863&productId=3001"
+    },
+    {
+      "type": "fastfood",
+      "index": 21,
+      "name": "샐러드박스 - 비건 스테이크 샐러드",
+      "description": "",
+      "ingredient": "스위트콘, 블랙올리브, 방울토마토, 키드니빈스, 고구마, 적양파, 그래놀라, 구운그린빈, 식물성 비건 스테이크",
+      "tags": ["비건인증"],
+      "URL": "http://www.saladbox.kr/bbs/board.php?bo_table=menus&sca=%EC%83%90%EB%9F%AC%EB%93%9C"
+    },
+    {
+      "type": "fastfood",
+      "index": 22,
+      "name": "샐러드박스 - 두부크럼블 머쉬룸 샐러드",
+      "description": "",
+      "ingredient": "스위트콘, 블랙올리브, 방울토마토, 키드니빈스, 고구마, 적양파, 그래놀라, 구운그린빈, 새송이 버섯, 두부 크럼블",
+      "tags": ["비건인증"],
+      "URL": "http://www.saladbox.kr/bbs/board.php?bo_table=menus&sca=%EC%83%90%EB%9F%AC%EB%93%9C"
+    },
+    {
+      "type": "fastfood",
+      "index": 23,
+      "name": "샐러드박스 - 비건 스테이크 포케",
+      "description": "",
+      "ingredient": "스위트콘, 방울토마토, 키드니빈스, 고구마, 적양파, 그래놀라, 크래미, 할라피뇨, 양파후레이크, 잡곡밥, 비건스테이크",
+      "tags": ["비건인증"],
+      "URL": "http://www.saladbox.kr/bbs/board.php?bo_table=menus&sca=%ED%8F%AC%EC%BC%80"
+    },
+    {
+      "type": "fastfood",
+      "index": 24,
+      "name": "샐러드박스 - 두부크럼블 머쉬룸 포케",
+      "description": "",
+      "ingredient": "스위트콘, 방울토마토, 키드니빈스, 고구마, 적양파, 그래놀라, 크래미, 할라피뇨, 양파후레이크, 잡곡밥, 새송이 버섯, 두부크럼블",
+      "tags": ["비건인증"],
+      "URL": "http://www.saladbox.kr/bbs/board.php?bo_table=menus&sca=%ED%8F%AC%EC%BC%80"
+    },
+    {
+      "type": "fastfood",
+      "index": 25,
+      "name": "롯데리아 - 리아미라클 Ⅱ",
+      "description": "식물성 패티를 사용한 햄버거.",
+      "tags": ["비건추정"],
+      "URL": "https://www.lotteeatz.com/products/introductions/REP_000349?rccode=brnd_main"
+    },
+    {
+      "type": "fastfood",
+      "index": 26,
+      "name": "롯데리아 - 더블리아미라클 Ⅱ",
+      "description": "식물성 패티 2개를 사용한 햄버거.",
+      "tags": ["비건추정"],
+      "URL": "https://www.lotteeatz.com/products/introductions/REP_000350?rccode=brnd_main"
+    }
+  ]
+}

@@ -1,7 +1,8 @@
 <template>
   <div class="store-card" @click="goToDetail">
     <div class="img-container">
-      <img :src="data.imgURL_main" />
+      <img v-if="data.imgURL_main" :src="data.imgURL_main" />
+      <img v-else :src="defaultImage" />
     </div>
     <div class="store-card-container">
       <div class="name">{{ data.name }}</div>
@@ -15,6 +16,8 @@
 <script lang="ts">
 import { defineComponent } from 'vue'
 import { useRouter } from 'vue-router'
+
+import blank from '@/assets/blank_image.png'
 
 export default defineComponent({
   props: {
@@ -32,7 +35,8 @@ export default defineComponent({
     }
 
     return {
-      goToDetail
+      goToDetail,
+      defaultImage: blank
     }
   }
 })

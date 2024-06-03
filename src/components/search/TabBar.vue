@@ -31,7 +31,7 @@ function onOpenDetail(query: string) {
       Fast Food Chain Store
     </div>
     <div class="sub-tab-item" @click="onOpenDetail('noBrand')">NoBrand</div>
-    <div class="sub-tab-item" @click="onOpenDetail('vegetarianBrand')">Vegetarian Brand</div>
+    <div class="sub-tab-item" @click="onOpenDetail('vegan')">Vegetarian Brand</div>
   </div>
 </template>
 

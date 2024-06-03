@@ -1,0 +1,724 @@
+{
+  "snacks": [
+    {
+      "type": "snack",
+      "index": 0,
+      "name": "코코넛 크래커",
+      "description": "",
+      "tags": ["비건추정", "다이소", "쿠팡", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 1,
+      "name": "네이쳐스베이커리 피그바 스트로베리",
+      "description": "",
+      "tags": ["비건인증", "쿠팡", "단과자"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 2,
+      "name": "미주라 리조 카카오 쿠키",
+      "description": "",
+      "tags": ["비건인증", "쿠팡", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 3,
+      "name": "럭키세븐 코코넛 칩",
+      "description": "",
+      "tags": ["비건추정", "다이소", "쿠팡", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 4,
+      "name": "미주라 프로틴 오트밀 비스켓",
+      "description": "",
+      "tags": ["비건인증", "쿠팡", "CU", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 5,
+      "name": "미주라 프로틴 아몬드 비스켓",
+      "description": "",
+      "tags": ["비건인증", "쿠팡", "CU", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 6,
+      "name": "신당동 떡볶이",
+      "description": "",
+      "tags": ["제조사확인", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 7,
+      "name": "난나나콘",
+      "description": "",
+      "tags": ["비건인증", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 8,
+      "name": "Dare Foods 얼티메이트 퍼지 초콜릿",
+      "description": "",
+      "tags": ["비건인증", "홈플러스", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 9,
+      "name": "Dare Foods 얼티메이트 메이플크림",
+      "description": "",
+      "tags": ["비건인증", "홈플러스", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 10,
+      "name": "Dare Foods 얼티메이트 레몬크림",
+      "description": "",
+      "tags": ["비건인증", "홈플러스", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 11,
+      "name": "티각태각 비트부각",
+      "description": "",
+      "tags": ["비건추정", "홈플러스", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 12,
+      "name": "오레오 웨이퍼롤 바닐라",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 13,
+      "name": "오레오 웨이퍼롤 초콜릿",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 14,
+      "name": "프롤리니 헤이즐넛 앤드 코코아",
+      "description": "",
+      "tags": ["제조사인증", "홈플러스", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 15,
+      "name": "익사이클 바삭칩 오리지날",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 16,
+      "name": "프로틴너티클러스터",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 17,
+      "name": "템페칩",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 18,
+      "name": "레이즈 씨위드 감자칩",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 19,
+      "name": "레이즈 클래식 감자칩",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 20,
+      "name": "레이즈 소금&식초 감자칩",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 21,
+      "name": "토스티토스 칸티나 트레디셔널 또띨라칩",
+      "description": "",
+      "tags": ["제조사인증", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 22,
+      "name": "토스티토스 스쿱 또띨라 칩",
+      "description": "",
+      "tags": ["제조사인증", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 23,
+      "name": "토스티토스 오리지날 또띨라 칩",
+      "description": "",
+      "tags": ["제조사인증", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 24,
+      "name": "팝코너스 스윗칠리",
+      "description": "",
+      "tags": ["제조사인증", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 25,
+      "name": "리코스 라운드 나쵸칩",
+      "description": "",
+      "tags": ["제조사인증", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 26,
+      "name": "가루비감자칩 오리지널",
+      "description": "",
+      "tags": ["제조사인증", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 27,
+      "name": "사또밥",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 28,
+      "name": "조청유과",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 29,
+      "name": "고구마깡",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 30,
+      "name": "츄러스",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 31,
+      "name": "참쌀선과",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 32,
+      "name": "이지프로틴 식물성 단백질 바",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 33,
+      "name": "농심 포테토칩",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 34,
+      "name": "네이쳐밸리 크런치 오트&다크 초코릿",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 35,
+      "name": "크라운 밤양갱",
+      "description": "주의: 해태 영양갱은 타우린 성분을 포함하여 논비건",
+      "tags": ["제조사인증", "편의점 간식", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 36,
+      "name": "크라운 팥양갱",
+      "description": "주의: 해태 영양갱은 타우린 성분을 포함하여 논비건",
+      "tags": ["제조사인증", "편의점 간식", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 37,
+      "name": "꼬깔콘 고소한맛",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 38,
+      "name": "띠옴바 납작복숭아",
+      "description": "",
+      "tags": ["제조사인증", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 39,
+      "name": "따옴바 패션프루트",
+      "description": "",
+      "tags": ["제조사인증", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 40,
+      "name": "따옴바 포도",
+      "description": "",
+      "tags": ["제조사인증", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 41,
+      "name": "따옴바 딸기",
+      "description": "",
+      "tags": ["제조사인증", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 42,
+      "name": "따옴바 수박",
+      "description": "",
+      "tags": ["제조사인증", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 43,
+      "name": "따옴바 애플망고",
+      "description": "",
+      "tags": ["제조사인증", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 44,
+      "name": "따옴바 파인애플",
+      "description": "",
+      "tags": ["제조사인증", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 45,
+      "name": "프링글스_오리지널",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 46,
+      "name": "프링글스 핫&스파이시",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 47,
+      "name": "로투스 비스코프 비스켓",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 48,
+      "name": "로투스 비스코프 바닐라샌드",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "짠과자"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 49,
+      "name": "로투스 비스코프샌드 비스코프크림",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 50,
+      "name": "맥비티 다이제스티브 오리지널",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 51,
+      "name": "수미칩 오리지널",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 52,
+      "name": "자가비짭잘한맛",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 53,
+      "name": "자가비 캐첩맛",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 54,
+      "name": "HBAF 김맛아몬드",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 55,
+      "name": "옥수수브이콘",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "단과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 56,
+      "name": "난나나콘",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "단과자"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 57,
+      "name": "해태 탱크보이 배맛",
+      "description": "",
+      "tags": ["제조사인증", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 58,
+      "name": "Dole 아이스망고바",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 59,
+      "name": "Dole 애플망고바",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 60,
+      "name": "나뚜루 비건초콜릿아몬드바",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "아이스크림"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 61,
+      "name": "나뚜루 비건 그린티 초코넛츠",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 62,
+      "name": "스크류바 딸기사과",
+      "description": "주의: 피치맛 논비건",
+      "tags": ["비건추정", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 63,
+      "name": "색고드름",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 64,
+      "name": "생귤탱귤감귤",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 65,
+      "name": "이다마망고코코넛포멜로",
+      "description": "",
+      "tags": ["비건인증", "편의점 간식", "아이스크림"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 66,
+      "name": "인투더망고바",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 67,
+      "name": "자연원망고 100%아이스",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 68,
+      "name": "해태 토마토마 쭈쭈바",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 69,
+      "name": "주물러 콜라",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 70,
+      "name": "델몬트 망고바",
+      "description": "",
+      "tags": ["비건추정", "편의점 간식", "아이스크림", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    },
+    {
+      "type": "snack",
+      "index": 71,
+      "name": "신당동 떡볶이",
+      "description": "",
+      "tags": ["제조사확인", "편의점 간식", "짠과자", "혼입가능"],
+      "URL": "",
+      "imgURL_main": "",
+      "imgURL_list": ""
+    }
+  ]
+}
