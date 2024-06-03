@@ -1,23 +1,37 @@
+<script setup lang="ts">
+import { useRouter } from 'vue-router'
+import { defineProps } from 'vue'
+
+const { toggleFilter } = defineProps<{ toggleFilter: () => void }>()
+
+const router = useRouter()
+
+function onOpenDetail(query: string) {
+  router.push(`/search?type=${query}`)
+  toggleFilter()
+}
+</script>
+
 <template>
-  <div class="main-tab">
-    <div @click="selectedCategory = 'FOOD'" :class="{ active: selectedCategory === 'FOOD' }">
-      FOOD
-    </div>
-    <div @click="selectedCategory = 'BRAND'" :class="{ active: selectedCategory === 'BRAND' }">
-      BRAND
-    </div>
+  <div @click="selectedCategory = 'BRAND'" :class="{ active: selectedCategory === 'BRAND' }">
+    FOOD
   </div>
-  <div class="sub-tab" v-if="selectedCategory === 'FOOD'">
-    <div class="sub-tab-item">Bakery</div>
-    <div class="sub-tab-item">Beverage</div>
-    <div class="sub-tab-item">Sauce</div>
-    <div class="sub-tab-item">Retort Food</div>
+  <div class="sub-tab">
+    <div class="sub-tab-item" @click="onOpenDetail('bakery')">Bakery</div>
+    <div class="sub-tab-item" @click="onOpenDetail('beverage')">Beverage</div>
+    <div class="sub-tab-item" @click="onOpenDetail('sauce')">Sauce</div>
+    <div class="sub-tab-item" @click="onOpenDetail('retortFood')">Retort Food</div>
   </div>
-  <div class="sub-tab" v-else-if="selectedCategory === 'BRAND'">
-    <div class="sub-tab-item">Cafe</div>
-    <div class="sub-tab-item">Fast Food Chain Store</div>
-    <div class="sub-tab-item">NoBrand</div>
-    <div class="sub-tab-item">Vegeterian Brand</div>
+  <div @click="selectedCategory = 'BRAND'" :class="{ active: selectedCategory === 'BRAND' }">
+    BRAND
+  </div>
+  <div class="sub-tab">
+    <div class="sub-tab-item" @click="onOpenDetail('cafe')">Cafe</div>
+    <div class="sub-tab-item" @click="onOpenDetail('fastFoodChainStore')">
+      Fast Food Chain Store
+    </div>
+    <div class="sub-tab-item" @click="onOpenDetail('noBrand')">NoBrand</div>
+    <div class="sub-tab-item" @click="onOpenDetail('vegetarianBrand')">Vegetarian Brand</div>
   </div>
 </template>
 

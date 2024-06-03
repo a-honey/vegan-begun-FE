@@ -28,7 +28,7 @@ export default defineComponent({
     const router = useRouter()
 
     const goToDetail = () => {
-      router.push(`/detail/${props.data.index}`)
+      router.push(`/detail/${props.data.index}?type=${props.data.type}`)
     }
 
     return {

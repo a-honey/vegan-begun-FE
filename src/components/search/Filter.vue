@@ -11,8 +11,8 @@ import TabBar from './TabBar.vue'
         <h2>Filters</h2>
         <div class="container">
           <h3 class="sub-title">Category</h3>
-          <TabBar />
-          <h3 class="sub-title">Price</h3>
+          <TabBar :toggleFilter="toggleSection" />
+          <!-- <h3 class="sub-title">Price</h3> -->
         </div>
       </section>
     </div>

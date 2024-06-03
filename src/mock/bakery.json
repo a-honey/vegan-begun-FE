@@ -1,6 +1,7 @@
 {
   "bakery": [
     {
+      "type": "bakery",
       "index": 0,
       "name": "헌터스 히말라야 핑크 솔트 포테이토칩",
       "description": "",
@@ -10,6 +11,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%ED%97%8C%ED%84%B0%EC%8A%A4_%ED%9E%88%EB%A7%90%EB%9D%BC%EC%95%BC_%ED%95%91%ED%81%AC_%EC%86%94%ED%8A%B8_%ED%8F%AC%ED%85%8C%EC%9D%B4%ED%86%A0%EC%B9%A9.webp"
     },
     {
+      "type": "bakery",
       "index": 1,
       "name": "헌터스 씨솔트 포테이토칩",
       "description": "",
@@ -19,6 +21,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%ED%97%8C%ED%84%B0%EC%8A%A4_%EC%94%A8%EC%86%94%ED%8A%B8_%ED%8F%AC%ED%85%8C%EC%9D%B4%ED%86%A0%EC%B9%A9.webp"
     },
     {
+      "type": "bakery",
       "index": 2,
       "name": "헌터스 씨솔트 앤 블랙페퍼 포테이토칩",
       "description": "",
@@ -28,6 +31,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%ED%97%8C%ED%84%B0%EC%8A%A4_%EC%94%A8%EC%86%94%ED%8A%B8_%EC%95%A4_%EB%B8%94%EB%9E%99%ED%8E%98%ED%8D%BC_%ED%8F%AC%ED%85%8C%EC%9D%B4%ED%86%A0%EC%B9%A9.webp"
     },
     {
+      "type": "bakery",
       "index": 3,
       "name": "크리스피칩_크랜베리",
       "description": "",
@@ -37,6 +41,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%94%BC%EC%B9%A9_%ED%81%AC%EB%9E%9C%EB%B2%A0%EB%A6%AC.webp"
     },
     {
+      "type": "bakery",
       "index": 4,
       "name": "크리스피칩_무화과",
       "description": "",
@@ -46,6 +51,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%94%BC%EC%B9%A9_%EB%AC%B4%ED%99%94%EA%B3%BC.webp"
     },
     {
+      "type": "bakery",
       "index": 5,
       "name": "크리스피칩_대추야자",
       "description": "",
@@ -55,6 +61,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%94%BC%EC%B9%A9_%EB%8C%80%EC%B6%94%EC%95%BC%EC%9E%90.webp"
     },
     {
+      "type": "bakery",
       "index": 6,
       "name": "자색고구마칩",
       "description": "",
@@ -62,6 +69,7 @@
       "imgURL_main": ""
     },
     {
+      "type": "bakery",
       "index": 7,
       "name": "사과칩",
       "description": "",
@@ -70,6 +78,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%EC%82%AC%EA%B3%BC%EC%B9%A9.webp"
     },
     {
+      "type": "bakery",
       "index": 8,
       "name": "골든고구마칩",
       "description": "",
@@ -78,6 +87,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%EA%B3%A8%EB%93%A0%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%B9%A9.webp"
     },
     {
+      "type": "bakery",
       "index": 9,
       "name": "바나나칩",
       "description": "",
@@ -86,6 +96,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%EB%B0%94%EB%82%98%EB%82%98%EC%B9%A9.webp"
     },
     {
+      "type": "bakery",
       "index": 10,
       "name": "단호박칩",
       "description": "",
@@ -94,6 +105,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%EB%8B%A8%ED%98%B8%EB%B0%95%EC%B9%A9.webp"
     },
     {
+      "type": "bakery",
       "index": 11,
       "name": "미주라 프로틴 아몬드 비스켓",
       "description": "",
@@ -103,6 +115,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%EB%AF%B8%EC%A3%BC%EB%9D%BC_%ED%94%84%EB%A1%9C%ED%8B%B4_%EC%95%84%EB%AA%AC%EB%93%9C_%EB%B9%84%EC%8A%A4%EC%BC%93.webp"
     },
     {
+      "type": "bakery",
       "index": 12,
       "name": "미주라 프론트 오트밀 비스켓",
       "description": "",
@@ -112,6 +125,7 @@
       "imgURL_list": "https://vegan-begun.s3.eu-north-1.amazonaws.com/%EB%AF%B8%EC%A3%BC%EB%9D%BC_%ED%94%84%EB%A1%9C%ED%8B%B4_%EC%98%A4%ED%8A%B8%EB%B0%80_%EB%B9%84%EC%8A%A4%EC%BC%93.webp"
     },
     {
+      "type": "bakery",
       "index": 13,
       "name": "부샤드 다크초콜릿 72%",
       "description": "",

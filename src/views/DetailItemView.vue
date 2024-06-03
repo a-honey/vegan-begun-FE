@@ -1,57 +1,80 @@
 <script setup lang="ts">
+import { ref, computed, watch } from 'vue'
+import { useRoute } from 'vue-router'
+
 import bakery from '../mock/bakery.json'
+import sauce from '../mock/sauce.json'
+import drink from '../mock/drink.json'
+
+const route = useRoute()
+
+const bakeryItemCards = bakery.bakery
+const drinkItemCards = drink.drink
+const sauceItemCards = sauce.sauce
+
+interface FoodItem {
+  index: number
+  name: string
+  imgURL_main?: string
+  tags?: string[]
+  imgURL_list?: string
+  description?: string
+  URL?: string
+}
+
+const itemsToDisplay = computed<FoodItem[]>(() => {
+  const type = route.query.type as string
+  switch (type) {
+    case 'bakery':
+      return bakeryItemCards
+    case 'drink':
+      return drinkItemCards
+    case 'sauce':
+      return sauceItemCards
+    default:
+      return []
+  }
+})
+
+const food = ref<FoodItem | null>(null)
+
+const loadFood = () => {
+  const data = itemsToDisplay.value
+  food.value = data.find((foodItem: FoodItem) => foodItem.index === Number(route.params.id)) || null
+}
+
+watch(route, loadFood, { immediate: true })
+
+const goToURL = () => {
+  if (!food.value?.URL) return
+  window.open(food.value.URL, '_blank')
+}
 </script>
 
 <template>
   <section>
     <div class="container">
-      <h1>{{ name }}</h1>
+      <h1>{{ food?.name }}</h1>
       <div class="img-container">
-        <img v-if="imgURL_main" :src="imgURL_main" />
+        <img v-if="food?.imgURL_main" :src="food?.imgURL_main" />
       </div>
     </div>
     <div class="content-container">
       <div class="item-container">
-        <p class="tag" v-for="(tag, index) in tags" :key="index"># {{ tag }}</p>
+        <p class="tag" v-for="(tag, index) in food?.tags" :key="index"># {{ tag }}</p>
       </div>
       <div class="item-container">
         <label> 성분표 </label>
-        <img v-if="imgURL_main" :src="imgURL_list" />
+        <img v-if="food?.imgURL_list" :src="food?.imgURL_list" />
       </div>
-      <div v-if="description" class="item-container">
+      <div v-if="food?.description" class="item-container">
         <label>기타</label>
-        <p>{{ description }}</p>
+        <p>{{ food?.description }}</p>
       </div>
-      <button v-if="URL" @click="goToURL">구매하러 가기</button>
+      <button v-if="food?.URL" @click="goToURL">구매하러 가기</button>
     </div>
   </section>
 </template>
-
-<script lang="ts">
-export default {
-  name: 'DetailItemViewVue',
-  props: ['id'],
-  data() {
-    const food = bakery.bakery.find((foodItem) => foodItem.index === Number(this.id))
-
-    return {
-      index: food?.index,
-      name: food?.name,
-      description: food?.description,
-      tags: food?.tags,
-      URL: food?.URL,
-      imgURL_main: food?.imgURL_main,
-      imgURL_list: food?.imgURL_list
-    }
-  },
-  methods: {
-    goToURL() {
-      if (!this.URL) return
-      window.open(this.URL, '_blank')
-    }
-  }
-}
-</script>
 
 <style scoped>
 section {

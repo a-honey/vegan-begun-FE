@@ -1,6 +1,7 @@
 {
   "sauce": [
     {
+      "type": "sauce",
       "index": 1,
       "name": "Barilla 바실리코 소스",
       "description": "",
@@ -10,6 +11,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/897/193/img/13193897_1.jpg?shrink=330:*&_v=20210121105720"
     },
     {
+      "type": "sauce",
       "index": 2,
       "name": "Barilla 아라비아따 소스",
       "description": "",
@@ -19,6 +21,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/770/403/img/20403770_1.jpg?shrink=330:*&_v=20230602143430"
     },
     {
+      "type": "sauce",
       "index": 3,
       "name": "Barilla 올리브 소스",
       "description": "",
@@ -28,6 +31,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/053/406/img/20406053_1.jpg?shrink=330:*&_v=20230602154922"
     },
     {
+      "type": "sauce",
       "index": 4,
       "name": "Tostitos 미디움 살사소스",
       "description": "",
@@ -37,6 +41,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/010/746/img/32746010_1.jpg?shrink=330:*&_v=20240117134845"
     },
     {
+      "type": "sauce",
       "index": 5,
       "name": "Tostitos 하나베로 살사소스",
       "description": "",
@@ -46,6 +51,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/681/731/img/4731681_1.jpg?shrink=330:*&_v=20240104173722"
     },
     {
+      "type": "sauce",
       "index": 6,
       "name": "Vegefood 쏘이네즈",
       "description": "",
@@ -55,6 +61,7 @@
       "imgURL_main": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7184496384/B.jpg?147000000"
     },
     {
+      "type": "sauce",
       "index": 7,
       "name": "라구 슈퍼청키 머쉬룸 소스",
       "description": "",
@@ -64,6 +71,7 @@
       "imgURL_main": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5577044711/B.jpg?47000000"
     },
     {
+      "type": "sauce",
       "index": 8,
       "name": "라구 어니언 앤 갈릭 청키 소스",
       "description": "",
@@ -73,6 +81,7 @@
       "imgURL_main": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6026423212/B.jpg?405000000"
     },
     {
+      "type": "sauce",
       "index": 9,
       "name": "복음자리 고소한 참깨 두부마요네즈",
       "description": "",
@@ -82,6 +91,7 @@
       "imgURL_main": "https://cdn.011st.com/11dims/resize/300x300/quality/75/11src/product/6991773671/B.jpg?224000000"
     },
     {
+      "type": "sauce",
       "index": 10,
       "name": "샘표 새미네 부엌 청양초칠리 딥소스",
       "description": "",
@@ -91,6 +101,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/468/311/img/45311468_1.jpg?shrink=130:130&_v=20240402080044"
     },
     {
+      "type": "sauce",
       "index": 11,
       "name": "샘표 요리에센스 연두",
       "description": "",
@@ -100,6 +111,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/521/132/img/6132521_1.jpg?shrink=130:130&_v=20180511161652"
     },
     {
+      "type": "sauce",
       "index": 12,
       "name": "샘표 요리에센스 연두 연두순",
       "description": "",
@@ -109,6 +121,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/962/061/img/4061962_1.jpg?shrink=130:130&_v=20200810160409"
     },
     {
+      "type": "sauce",
       "index": 13,
       "name": "샘표 요리에센스 연두 청양초",
       "description": "",
@@ -118,6 +131,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/653/145/img/6145653_1.jpg?shrink=130:130&_v=20200810153950"
     },
     {
+      "type": "sauce",
       "index": 14,
       "name": "샘표 요리에센스 연두 우리콩",
       "description": "",
@@ -127,6 +141,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/836/061/img/4061836_1.jpg?shrink=130:130&_v=20190306143216"
     },
     {
+      "type": "sauce",
       "index": 15,
       "name": "이금기 비건소스",
       "description": "",
@@ -136,6 +151,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/621/095/img/18095621_1.jpg?shrink=130:130&_v=20221025163453"
     },
     {
+      "type": "sauce",
       "index": 16,
       "name": "청정원 순창 초고추장",
       "description": "",
@@ -145,6 +161,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/177/640/img/3640177_1.jpg?shrink=130:130&_v=20180725150510"
     },
     {
+      "type": "sauce",
       "index": 17,
       "name": "팔도 비빔장 시그니처",
       "description": "",
@@ -154,6 +171,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/975/260/img/15260975_1.jpg?shrink=130:130&_v=20210915160826"
     },
     {
+      "type": "sauce",
       "index": 18,
       "name": "폴리 토마토 앤 바질 소스",
       "description": "",
@@ -163,6 +181,7 @@
       "imgURL_main": "https://img.danawa.com/prod_img/500000/425/688/img/32688425_1.jpg?shrink=130:130&_v=20240117130901"
     },
     {
+      "type": "sauce",
       "index": 19,
       "name": "샘표 차우차이 마라훠궈 소스",
       "description": "",
@@ -172,6 +191,7 @@
       "imgURL_main": "https://www.sempio.com/image/KM/BQ/202403201645561367ede7e44-1b30-41e2-a761-7860c59fb7b9.png"
     },
     {
+      "type": "sauce",
       "index": 20,
       "name": "노브랜드 고소함 더한 비빔장",
       "description": "",
@@ -181,6 +201,7 @@
       "imgURL_main": "https://sitem.ssgcdn.com/61/13/17/item/1000547171361_i1_1100.jpg"
     },
     {
+      "type": "sauce",
       "index": 21,
       "name": "노브랜드 딸기잼",
       "description": "",
@@ -190,6 +211,7 @@
       "imgURL_main": "https://sitem.ssgcdn.com/06/69/20/item/1000017206906_i1_1200.jpg"
     },
     {
+      "type": "sauce",
       "index": 22,
       "name": "노브랜드 발사믹 그레이즈",
       "description": "",
@@ -199,6 +221,7 @@
       "imgURL_main": "https://sitem.ssgcdn.com/43/21/40/item/1000450402143_i1_1100.jpg"
     },
     {
+      "type": "sauce",
       "index": 23,
       "name": "노브랜드 발사믹 비네가 오브 모데나",
       "description": "",
@@ -208,6 +231,7 @@
       "imgURL_main": "https://img.ople.com/ople/item/1510759181_l1?v=1716835424"
     },
     {
+      "type": "sauce",
       "index": 24,
       "name": "노브랜드 블루베리잼",
       "description": "",
@@ -217,6 +241,7 @@
       "imgURL_main": "https://sitem.ssgcdn.com/96/94/47/item/1000053479496_i1_1100.jpg"
     },
     {
+      "type": "sauce",
       "index": 25,
       "name": "노브랜드 스리라차 소스",
       "description": "",
@@ -226,6 +251,7 @@
       "imgURL_main": "https://sitem.ssgcdn.com/73/12/31/item/1000527311273_i1_1100.jpg"
     },
     {
+      "type": "sauce",
       "index": 26,
       "name": "노브랜드 크리미 피넛버터",
       "description": "",
@@ -235,6 +261,7 @@
       "imgURL_main": "https://sitem.ssgcdn.com/94/47/02/item/1000020024794_i1_1100.jpg"
     },
     {
+      "type": "sauce",
       "index": 27,
       "name": "서울우유 식물성 휘핑크림",
       "description": "",
@@ -244,6 +271,7 @@
       "imgURL_main": "https://image6.coupangcdn.com/image/vendor_inventory/c904/137fe5a7652517b9d9a1b42b566473b23555fd475b21f18b1b7d77d916f5.jpg"
     },
     {
+      "type": "sauce",
       "index": 28,
       "name": "비비드키친 비건마요",
       "description": "",
