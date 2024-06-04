@@ -9,7 +9,11 @@
       <nav :class="{ 'show-menu': isMenuOpen }" @click="toggleMenu">
         <a href="/about">ABOUT</a>
         <a href="/search">SEARCH</a>
-        <a href="/contact">CONTACT</a>
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLSdXPE8Hn7y0thEpd5Wg-F6K0WV6GGxLWK8e1mcmeX1WBXVN8w/viewform"
+          target="_blank"
+          >CONTACT</a
+        >
       </nav>
     </div>
   </div>
