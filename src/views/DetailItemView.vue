@@ -140,4 +140,15 @@ h1 {
   font-size: 15px;
   font-weight: 700;
 }
+
+button {
+  background-color: #257766;
+  color: white;
+  width: 100%;
+  border-radius: 15px;
+  border: 0px;
+  padding: 15px;
+  font-size: large;
+  font-weight: 700;
+}
 </style>

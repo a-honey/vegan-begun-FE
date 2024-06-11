@@ -43,6 +43,7 @@ import logo from '../assets/logo.png'
 
 <style scoped>
 section {
+  background-color: rgb(243, 243, 243);
   padding: 20px;
   display: flex;
   flex-direction: column;
@@ -53,7 +54,7 @@ section {
 .container {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 25px;
   font-size: 20px;
 }
 

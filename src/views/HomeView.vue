@@ -31,6 +31,7 @@ section {
   display: grid;
   grid-template-rows: 4fr 0.5fr;
   gap: 100px;
+  background-color: rgb(243, 243, 243);
 }
 
 .container {

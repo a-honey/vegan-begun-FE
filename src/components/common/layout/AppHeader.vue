@@ -5,7 +5,7 @@ import logo from '../../../assets/logo_text.png'
 
 <template>
   <header>
-    <img :src="logo" alt="vegan-begun" width="200" height="40" />
+    <a href="/"> <img :src="logo" alt="vegan-begun" width="200" height="40" /></a>
     <AppNav />
   </header>
 </template>
@@ -23,7 +23,7 @@ header {
   justify-content: space-between;
   padding: 0 20px 0px 10px;
   height: 7vh;
-  background-color: #4e8563;
+  background-color: #73b68c;
   color: white;
 }
 </style>

@@ -10,6 +10,7 @@ body {
   margin: 0;
   font-family: Pretendard-Regular;
   color: #363a45;
+  min-width: 400px;
 }
 
 * {

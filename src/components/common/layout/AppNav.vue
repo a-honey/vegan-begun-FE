@@ -48,6 +48,7 @@ nav {
   height: 100vh;
   display: flex;
   flex-direction: column;
+  align-items: center;
   padding: 40px;
   gap: 20px;
   z-index: 999;

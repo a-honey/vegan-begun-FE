@@ -71,10 +71,11 @@ img {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  min-height: 80px;
 }
 
 .name {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 700;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -83,6 +84,7 @@ img {
 }
 
 .store-card-tags {
+  font-size: 14px;
   display: flex;
   gap: 10px;
 }
