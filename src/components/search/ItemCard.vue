@@ -7,7 +7,7 @@
     <div class="store-card-container">
       <div class="name">{{ data.name }}</div>
       <ul class="store-card-tags">
-        <li v-for="(tag, index) in data.tags" :key="index"># {{ tag }}</li>
+        <li v-for="(tag, index) in data.tags.slice(0, 2)" :key="index"># {{ tag }}</li>
       </ul>
     </div>
   </div>
@@ -85,7 +85,9 @@ img {
 
 .store-card-tags {
   font-size: 14px;
+  font-weight: 700;
   display: flex;
   gap: 10px;
+  color: var(--point-color);
 }
 </style>
